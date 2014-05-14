@@ -2,6 +2,14 @@
 *.apk
 *.ap_
 
+# Directories
+drop/
+drop-android/
+khelte-khelte-shekha/
+khelte-khelte-shekha-android/
+star-assault/
+star-assault-android/
+
 # Files for the Dalvik VM
 *.dex
 
